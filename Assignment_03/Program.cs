@@ -15,12 +15,12 @@
             #region Question02
             //int[,] shelfCopie = {
 
-            //    {0,3,5 },
-            //    {1,1,4 }
+            //    {3,5 },
+            //    {1,4 }
 
             //};
-            //Console.WriteLine(shelfCopie[1,0]);
-            #endregion
+            //Console.WriteLine(shelfCopie[1, 0]);
+            //#endregion
 
 
             #region Question03
